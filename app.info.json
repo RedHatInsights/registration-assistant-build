@@ -1,0 +1,11 @@
+{
+  "app_name": "registration-assistant",
+  "src_hash": "f24e3443b4708a2ffb5c8d3c1d7440ae1bc7029c",
+  "src_tag": "",
+  "src_branch": "master",
+  "travis": {
+    "event_type": "push",
+    "build_number": "13",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/registration-assistant/builds/714517860"
+  }
+}
