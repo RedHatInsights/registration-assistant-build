@@ -1,11 +1,11 @@
 {
   "app_name": "registration",
-  "src_hash": "ad07685963b534e8578d22c0cfc03372eba54b7d",
+  "src_hash": "ad6b5f4a93518128a23138d803b2c693decdfa96",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "93",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/registration-assistant/builds/719358460"
+    "build_number": "97",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/registration-assistant/builds/719380208"
   }
 }
