@@ -1,3 +1,13 @@
+/*!
+* focus-trap 6.2.2
+* @license MIT, https://github.com/focus-trap/focus-trap/blob/master/LICENSE
+*/
+
+/*!
+* tabbable 5.1.6
+* @license MIT, https://github.com/focus-trap/tabbable/blob/master/LICENSE
+*/
+
 /** @license React v16.13.1
  * react-is.production.min.js
  *
