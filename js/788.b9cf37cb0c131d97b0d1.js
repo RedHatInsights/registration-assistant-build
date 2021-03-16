@@ -1,0 +1,2 @@
+(self.webpackChunkregistration_assistant=self.webpackChunkregistration_assistant||[]).push([[788],{1788:(t,e,r)=>{"use strict";r.d(e,{Z:()=>s});var o=r(4665);function s(t,e){t.prototype=Object.create(e.prototype),t.prototype.constructor=t,(0,o.Z)(t,e)}},4665:(t,e,r)=>{"use strict";function o(t,e){return(o=Object.setPrototypeOf||function(t,e){return t.__proto__=e,t})(t,e)}r.d(e,{Z:()=>o})}}]);
+//# sourceMappingURL=788.b9cf37cb0c131d97b0d1.js.map
