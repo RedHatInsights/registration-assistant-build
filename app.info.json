@@ -1,12 +1,12 @@
 {
   "app_name": "registration",
-  "src_hash": "a6f4e807bb0dbd3a3508ce136521d8e98cb5a42a",
+  "src_hash": "a51d5a8ebea1af5959ba4182b6b0625f33f8d6f4",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.132.2","@patternfly/react-core@4.152.4","@patternfly/react-icons@4.11.14","@patternfly/react-table@4.29.58"],
   "travis": {
     "event_type": "push",
-    "build_number": "291",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/registration-assistant/builds/237101978"
+    "build_number": "295",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/registration-assistant/builds/237753570"
   }
 }
