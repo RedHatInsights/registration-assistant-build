@@ -1,11 +1,11 @@
 {
     "registration": {
         "entry": [
-            "/beta/apps/registration/registration.6370086c182148bd0f2c.js"
+            "/apps/registration/registration.6b962c250232bcb9d715.js"
         ],
         "modules": [
-            "/beta/apps/registration/js/994.6370086c182148bd0f2c.js",
-            "/beta/apps/registration/css/994.d6dee26ad2fc0998039e.css"
+            "/apps/registration/js/994.6b962c250232bcb9d715.js",
+            "/apps/registration/css/994.d6dee26ad2fc0998039e.css"
         ]
     }
 }
