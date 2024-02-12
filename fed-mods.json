@@ -1,11 +1,1 @@
-{
-    "registration": {
-        "entry": [
-            "/apps/registration/registration.6b962c250232bcb9d715.js"
-        ],
-        "modules": [
-            "/apps/registration/js/994.6b962c250232bcb9d715.js",
-            "/apps/registration/css/994.d6dee26ad2fc0998039e.css"
-        ]
-    }
-}
+{"name":"registration","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/beta/apps/registration/","loadScripts":["registration.26d98a0b0ca209ba82bb.js"],"buildHash":"80eee44067a499820c4cb960914ba3bb"}
