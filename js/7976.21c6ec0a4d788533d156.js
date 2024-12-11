@@ -1,0 +1,1 @@
+(self.webpackChunkregistration=self.webpackChunkregistration||[]).push([[7976,6393],{36393:(e,s,r)=>{"use strict";r.r(s),r.d(s,{Flex:()=>t.s,FlexItem:()=>a.Z});var t=r(96998),a=r(96553)},36752:()=>{}}]);

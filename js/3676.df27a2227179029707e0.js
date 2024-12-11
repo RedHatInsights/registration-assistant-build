@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkregistration=self.webpackChunkregistration||[]).push([[3676],{41295:(t,n,e)=>{e.r(n),e.d(n,{Button:()=>r.$n,ButtonSize:()=>r.Mp,ButtonType:()=>r.VQ,ButtonVariant:()=>r.Ak});var r=e(72583)}}]);

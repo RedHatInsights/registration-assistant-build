@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkregistration=self.webpackChunkregistration||[]).push([[5995],{18376:(e,r,i)=>{i.r(r),i.d(r,{Spinner:()=>n.y,spinnerSize:()=>n.J});var n=i(932)}}]);
